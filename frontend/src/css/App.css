@@ -1,0 +1,15 @@
+.main-content {
+  flex: 1;
+  padding: 2rem;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding-top: calc(2rem + 70px); /* Account for fixed navbar height + original padding */
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    padding-top: calc(2rem + 60px); /* Smaller navbar height on mobile */
+  }
+}
