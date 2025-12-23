@@ -1,3 +1,5 @@
+https://a-movie.vercel.app/
+
 # 🎬 AMovie - Movie Discovery App
 
 A modern, responsive movie discovery web application built with React. Browse popular movies, search for your favorites, watch trailers, and save movies to your personal favorites list.
